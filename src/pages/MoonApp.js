@@ -3,7 +3,7 @@ import React from "react";
 import RotatableEmoji from "../Components/RotateText";
 
 const renderEmoji = () => {
-  const emojis = ["🌑", "🌒", "🌓", "🌔", "🌕", "🌖", "🌗", "🌘"];
+  const emojis = ["🌑", "🌒", "🌓", "🌔","☀️" ,"🌕", "🌖", "🌗", "🌘"];
   return (
     <div>
       <div>
