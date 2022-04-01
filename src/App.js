@@ -14,7 +14,7 @@ const Sign = ({ bioLink }) => {
   return (
     <p className="block fixed">
       {" "}
-      Made by <a href={bioLink}> Yueh-Han</a>
+      Made by <a href={bioLink}> lingsinghuang</a>
     </p>
   );
 };
