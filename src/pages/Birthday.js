@@ -17,7 +17,7 @@ const NoteWrapper = styled.p`
 const BirthdayApp = () => {
   const [date, setDate] = useState(new Date());
   const msInYear = 365.25 * 24 * 60 * 6 * 10000;
-  const dateDiffInMs = (date - new Date(1999, 2, 28)) / msInYear;
+  const dateDiffInMs = (date - new Date(2006,4,17)) / msInYear;
 
   const refreshClock = () => {
     setDate(new Date());
