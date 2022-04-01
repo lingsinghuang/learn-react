@@ -25,7 +25,7 @@ const Bar = styled.div`
   margin-top: 1rem;
   margin-right: 4rem;
   padding: 0.7rem;
-  background-color: #d6e5fa;
+  background-color: #ffd43b;
   border-radius: 1rem;
 `;
 
